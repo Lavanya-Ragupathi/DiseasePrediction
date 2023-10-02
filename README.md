@@ -1,2 +1,3 @@
 # DiseasePrediction
-Disease Prediction from symptoms using Nave Bayes Classifier 
+Disease Prediction from symptoms using Decision tree classifier
+
